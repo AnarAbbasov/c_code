@@ -9,6 +9,6 @@ int main ()
      printf(libfunc());
      int a=3344;
      printf("%p\n",&a);
-     printf("%s\n","boris xuylo");
+     printf("%s\n","boris xuylo i peyser");
      return 0;
      }
